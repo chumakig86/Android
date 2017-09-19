@@ -1,3 +1,2 @@
-# Android
-Musical Greeting Card
+# Musical Greeting Card
 My first Android app
